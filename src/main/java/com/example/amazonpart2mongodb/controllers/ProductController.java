@@ -14,7 +14,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = "https://pure-meadow-01496.herokuapp.com")
+@CrossOrigin(origins = "http://localhost:4000")
 @RestController
 public class ProductController {
 

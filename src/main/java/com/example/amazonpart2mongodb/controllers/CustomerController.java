@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Collections;
 import java.util.List;
 
-@CrossOrigin(origins="https://pure-meadow-01496.herokuapp.com")
+@CrossOrigin(origins="http://localhost:4000")
 @RestController
 public class CustomerController {
 
