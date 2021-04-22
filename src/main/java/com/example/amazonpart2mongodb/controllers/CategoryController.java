@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
 
-@CrossOrigin(origins="http://localhost:4000")
+@CrossOrigin(origins="https://pure-meadow-01496.herokuapp.com")
 @RestController
 public class CategoryController {
 

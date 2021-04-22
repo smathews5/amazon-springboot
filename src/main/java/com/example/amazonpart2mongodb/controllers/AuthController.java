@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.Collections;
 
-@CrossOrigin(origins="http://localhost:4000")
+@CrossOrigin(origins="https://pure-meadow-01496.herokuapp.com")
 @RestController
 public class AuthController {
 
