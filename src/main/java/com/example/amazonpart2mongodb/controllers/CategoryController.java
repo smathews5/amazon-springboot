@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
 
-@CrossOrigin(origins="http://localhost:4000")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 public class CategoryController {
 
